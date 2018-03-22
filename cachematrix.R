@@ -1,8 +1,6 @@
 ## This function provides a list of functions(get,set,set inverse, get inverse) that will be 
 ## applied to a matrix
 
-## Write a short comment describing this function
-
 makeCacheMatrix <- function(x = matrix()) {
 
 m <- NULL
